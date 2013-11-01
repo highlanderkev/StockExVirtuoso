@@ -6,7 +6,7 @@ Project Overview:
 -----------------
 This project stems from a software engineering project I worked on for SE 350 Object-Oriented Software Development 
 and is meant to be a fully functional virtual stock exchange.
-(But what does that mean?) 
+
 * It is capable of hosting multiple clients in a virtual stock environment, where the clients can buy and sell virtual stocks.
 * There is currently no real data being used besides what you provide it. 
 * It is just a framework (empty shell/canvas) for experimenting.
