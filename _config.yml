@@ -1,0 +1,21 @@
+#standard jekyll configuration
+permalink: none
+pygments: true
+exclude: ['README.md', '.c9revisions']
+
+#configuration required for pages 
+domain: www.kevinpatrickwestropp.com
+url: http://www.kevinpatrickwestropp.com/StockExVirtuoso/
+title: StockExVirtuoso
+subtitle: Virtual Stock Exchange written in Java
+author: Kevin Patrick Westropp
+name: Kevin Patrick Westropp
+email: mail@kevinpatrickwestropp.com
+
+#configuration for enhancements
+
+google_analytics:
+    account: UA-41364525-1
+
+github:
+    username: highlanderkev
