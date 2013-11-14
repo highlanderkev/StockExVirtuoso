@@ -16,8 +16,5 @@ Looking forward:
 Currently, I am looking into ways to make this more practical for someone looking to get more trading experience or 
 experiment with trading algorithms like high-frequency trading algorithms. As there is already a good platform 
 for this at [Quantopian](https://www.quantopian.com/), I am currently investigating other avenues for this. 
-I am open to suggestions at [kevinwestropp@live.com](mailto:kevinwestropp@live.com).
+I am open to suggestions at [mail@kevinpatrickwestropp.com](mailto:mail@kevinpatrickwestropp.com).
 
-License: 
----------
-Unless otherwise noted this covered by the [Creative Commons License](http://creativecommons.org/licenses/by/3.0/).
